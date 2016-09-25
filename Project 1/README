@@ -2,5 +2,22 @@ Name : Yuanyuan Peng
 SBU ID: 108 734 720 
 Project #1
 
-To grade this program just hit the run button for the project1.m file and following the directions in the program.
+Project includes:
+	README
+
+	3 function files:
+
+		GElimination.m
+		inner.m
+		MonteCarlo_pi.m 
+	
+	1 main program file:
+
+		Project1.m
+
+Steps to Grade:
+1) Open the Project1.m file
+2) Hit the run button 
+3) Follow the directions inside the program
+
 Have fun grading :)
