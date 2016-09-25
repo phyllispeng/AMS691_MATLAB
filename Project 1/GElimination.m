@@ -1,0 +1,2 @@
+function GEresult = GElimination()
+end
